@@ -1,0 +1,10 @@
+{
+  "name": "desafio1_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "l4ndim <lucas.landim@cubos.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
